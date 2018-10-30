@@ -9,7 +9,9 @@
   "author": "Jayadev Akkiraju",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.16.3",
-    "squirrelly": "^5.1.0"
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "squirrelly": "^6.0.1"
   }
 }
