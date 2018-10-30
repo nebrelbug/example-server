@@ -1,2 +1,2 @@
-# squirrelly-example-project
-squirrelly-example-project is built using squirrelly templating engine
+# example-server
+An example server for the Google CodeIn
